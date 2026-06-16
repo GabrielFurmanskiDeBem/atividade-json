@@ -1,0 +1,16 @@
+[
+     {
+     "id": 1,
+     "nome": "Caixa de Papelão",
+     "descricao": "Caixa resistente para embalagem",
+     "preco": 5.50,
+     "estoque": 100
+     },
+     {
+     "id": 2,
+     "nome": "Caixa Personalizada",
+     "descricao": "Caixa com logo da empresa",
+     "preco": 8.90,
+     "estoque": 50
+     }
+]
